@@ -14,7 +14,7 @@ This repository is created for demonstration and evaluation purposes for the Pre
 
 ## 🎥 Video Demo
 
-📺 [Elevator Pitch Video](https://your-youtube-or-drive-link.com)  
+📺 [Elevator Pitch Video](https://youtu.be/4mAT-b2LXjU)  
 🎯 Language: English / Uzbek  
 ⏱ Duration: ~2 minutes
 
